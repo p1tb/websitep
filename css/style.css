@@ -42,7 +42,7 @@
     margin: 0 auto;
     }
     .logo {
-      padding-left: 10px;
+    padding-left: 10px;
     }
     .main-nav {
     width: 100%;
@@ -87,6 +87,8 @@
     .carousel {
     
     }
+    .card {
+    padding-bottom: 40px;
     .card-deck {
     margin: 0 0 40px;
     }
